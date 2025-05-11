@@ -9,7 +9,6 @@ This application is a simple library management system using a multi-layered arc
 ## Requirements
 
 - [.NET SDK 6 or later]
-- Any IDE (e.g., Visual Studio, VS Code) or simply run via CLI
 
 ---
 
@@ -25,11 +24,14 @@ LibraryManagementSystem/
 
 ## How to Run
 
-1. **Clone the repository** (or download the folder).
-2. Open a terminal in the root directory.
-3. Run the project:
-   ```bash
-   dotnet run
+- Open Visual Studio.
+- Click on "Open a project or solution".
+- Navigate to the root folder of the project and open the .sln file (if available), or open the folder directly.
+- In the Solution Explorer, right-click on the project that contains Program.cs (the console app) and select "Set as Startup Project".
+- Press F5 (or click the green ► Run button) to start the application.
+- The console window will open and display a menu for interacting with the system.
+
+
 
    
 

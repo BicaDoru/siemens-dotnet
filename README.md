@@ -17,10 +17,10 @@ This application is a simple library management system using a multi-layered arc
 
 LibraryManagementSystem/
 │
-├── Library.Core/ # Domain models and interfaces
-├── Library.Data/ # JSON repository implementation
-├── Library.Services/ # Business logic layer
-├── Library.ConsoleApp/Program.cs # Console 
+├ Library.Core/ # Domain models and interfaces
+├ Library.Data/ # JSON repository implementation
+├ Library.Services/ # Business logic layer
+├ Library.ConsoleApp/Program.cs # Console 
 
 ---
 
